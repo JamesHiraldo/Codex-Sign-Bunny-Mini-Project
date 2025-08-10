@@ -1,0 +1,16 @@
+#include <iostream>
+using std::cout;
+
+
+int main() {
+ cout << "       _____________\n";
+ cout << "      |             |\n";
+ cout << "      |    Help     |\n";
+ cout << "      |     Me      |\n";
+ cout << "      |     !!      |\n";
+ cout << "      |        C++  |\n";
+ cout << "      |_____________|\n";
+ cout << "      (\\__/)   ||\n";
+ cout << "      (oㅅo)   ||\n";
+ cout << "      /     づ \n";
+}
